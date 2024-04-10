@@ -8,6 +8,12 @@ import DialogContent from "@mui/material/DialogContent";
 import DialogContentText from "@mui/material/DialogContentText";
 import DialogTitle from "@mui/material/DialogTitle";
 
+/* IMAGES */
+
+import img0 from "../Assets/Images/img0.jpg";
+import img1 from "../Assets/Images/img1.jpg";
+import img2 from "../Assets/Images/img2.jpg";
+
 /* ICONS */
 
 import { FaFolder } from "react-icons/fa";
